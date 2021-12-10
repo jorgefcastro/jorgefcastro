@@ -3,7 +3,7 @@
 I know that there are many platforms with this focus.
 But i wanted more, so i decide to learn about web developing and programming languages.
 To build a own domine more complete, not just a market place, but a relationship and expression place.
-- 🌱 Currently i'm learning HTML, Javascript in <a target="_blank" href="www.youtube.com/CursoemVideo">CursoemVideo</a>
+- 🌱 Currently i'm learning HTML, Javascript in <a href="www.youtube.com/CursoemVideo" target="_blank">CursoemVideo</a>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jferreiracastro@gmail.com
 
