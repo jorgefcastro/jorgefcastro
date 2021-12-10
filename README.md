@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Jorge </h1>
-<p>Some time ago I was thinking about to create a t-shirt store. 
+<p>Sometime ago I was thinking about to create a t-shirt store. 
 I know that there are many platforms with this focus.
 But i wanted more, so i decide to learn about web developing and programming languages.
 To build a own domine more complete, not just a market place, but a relationship and expression place.</p>
